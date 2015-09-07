@@ -1,6 +1,6 @@
 # KinSlideshow
 a copy of KinSlideshow
-'''
+```
 /*KinSlideshow*/
 ;(function($) {
     $.fn.KinSlideshow = function(settings) {
@@ -554,4 +554,4 @@ a copy of KinSlideshow
         return KinSlideshow_initialize();
     };
 })(jQuery);
-'''
+```
